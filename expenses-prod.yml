@@ -1,5 +1,5 @@
 expenses:
   default:
     id: 1
-    expenseName: "Food-default"
+    expenseName: "Food-prod"
     expenseAmount: 1000
