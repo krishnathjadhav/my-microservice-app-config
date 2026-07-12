@@ -1,0 +1,5 @@
+expenses:
+  default:
+    id: 1
+    expenseName: "Food-default"
+    expenseAmount: 1000
