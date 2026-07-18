@@ -1,5 +1,5 @@
 expenses:
   default:
     id: 1
-    expenseName: "Food-production"
+    expenseName: "Food-production-docker"
     expenseAmount: 1000
